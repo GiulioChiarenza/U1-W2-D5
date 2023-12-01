@@ -1,0 +1,71 @@
+
+   
+
+main {
+    padding: 0px 20px 0px 20px;
+    background-color:#eaeded;
+}
+
+
+#logo {
+    background-color: #222f3e;
+    color: #eaeded;
+    padding: 5px 0px 5px 15px;
+}
+#option {
+    background-color: #222f3eea;
+    color: #eaeded;
+    padding: 1px 0px 1px 15px ;
+}
+.spanOption {
+    padding: 5px;
+}
+#giftCard {
+    text-align: center;
+    width: 100%;
+    font-size: 12px;
+    /* padding: 20px 0px 20px 0px; */
+    border: 1px solid #f56600;
+    background-color: #f56600;
+    color: #eaeded;
+    
+    line-height: 25px;
+    margin: 20px 0px 20px 0px;
+    padding: 1px 5px 5px 5px;
+}
+#giftGuides {
+   width: 100%;
+    text-align: center;
+    line-height: 35px;
+    color: #eaeded;
+
+}
+#perfectGift {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    height: 200px;
+    border: 1px solid white;
+    background-color: white;
+} 
+.span {
+    padding: 5px 10px 0px 10px;
+    display: inline
+}
+#img9 {
+    
+    text-align: center;
+    margin: 20px 20px 30px 20px
+}
+   #img10 {
+    text-align: center;
+    margin: 20px 20px 30px 20px
+   }
+   #footer {
+    background-color: #222f3e;
+    text-align: center;
+    padding: 10px 0px 10px 15px;
+   }
